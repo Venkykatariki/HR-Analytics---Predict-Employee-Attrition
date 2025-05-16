@@ -58,12 +58,12 @@ This project analyzes employee data to uncover the key factors driving attrition
 
 ---
 
-## 📊 Deliverables
+## 🖼️ Dashboard Snapshot
 
-- `HR Analytics - Predict Employee Attrition.ipynb` - Python code for data analysis & ML modeling
-- `HR Attrition Dashboard.pbix` - Interactive Power BI dashboard
-- `HR Analytics – Predict Employee Attrition Project Report.pdf` - Detailed project report
-- `HR Analytics - Predict Employee Attrition.pptx` - Presentation of findings & recommendations
+Here’s a preview of the interactive Power BI dashboard built for this project:
+
+![Dashboard Snapshot1](https://github.com/Venkykatariki/HR-Analytics---Predict-Employee-Attrition/blob/main/Snapshot1.png)
+![Dashboard Snapshot2](https://github.com/Venkykatariki/HR-Analytics---Predict-Employee-Attrition/blob/main/Snapshot2.png)
 
 ---
 
